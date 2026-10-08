@@ -33,7 +33,15 @@ Diretor de banco passa por análise de "reputação ilibada" e capacitação té
 
 Datas e cargos foram confirmados pelo LinkedIn (out/2026), e as vedações foram confirmadas por você. Formação e locais confirmados pelo LinkedIn (out/2026). Decisões tomadas:
 - **Mandatos na Eye e na Auttar:** o CV fica sem datas, por decisão sua. Tenha as atas de eleição em mãos para a análise do Banco Central.
-- **Credenciamento de administrador de carteira (ANBIMA/CVM, 2024):** não está no CV. Os e-mails mostram que o pedido foi feito, mas não mostram a conclusão. Se o credenciamento saiu, ele entra em Registros e certificações.
+- **Credenciais:** o perfil do LinkedIn não lista credenciamento de administrador de carteira, então ele não entra no CV. Entraram Tesoureiro (BR)® (IBEF-SP) e o Top 50 Executivos de Finanças 2026.
+
+### Grêmio: use a seu favor
+
+O cargo de Secretário-Geral Adjunto do Conselho de Administração do Grêmio, desde 2014, aparece no CV em dois lugares: no card "Raízes no RS" e em "Conselho e reconhecimento".
+
+Para o público político gaúcho, isso funciona como prova de vivência de conselho, de capital de relacionamento e de enraizamento no estado.
+
+Cuidado ao abordar o tema: com parlamentar colorado, apresente como experiência de governança, não como paixão clubística.
 
 ### O vínculo com o sogro, suplente de senador
 
