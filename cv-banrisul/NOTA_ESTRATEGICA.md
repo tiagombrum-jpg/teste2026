@@ -37,7 +37,7 @@ Datas e cargos foram confirmados pelo LinkedIn (out/2026), e as vedações foram
 
 ### Grêmio: use a seu favor
 
-O cargo de Secretário-Geral Adjunto do Conselho de Administração do Grêmio, desde 2014, aparece no CV em dois lugares: no card "Raízes no RS" e em "Conselho e reconhecimento".
+O cargo de Secretário-Geral Adjunto do Conselho de Administração do Grêmio, que você exerceu de 2014 a 2016, aparece no CV em dois lugares: no card "Raízes no RS" e em "Conselho e reconhecimento".
 
 Para o público político gaúcho, isso funciona como prova de vivência de conselho, de capital de relacionamento e de enraizamento no estado.
 
