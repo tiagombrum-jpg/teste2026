@@ -31,10 +31,9 @@ Diretor de banco passa por análise de "reputação ilibada" e capacitação té
 
 ## 3. Pendências finais
 
-Datas e cargos foram confirmados pelo LinkedIn (out/2026), e as vedações foram confirmadas por você. Ainda faltam:
-- **Períodos dos mandatos estatutários na Eye e na Auttar.** O CV não traz datas; tenha as atas de eleição em mãos para a análise do Banco Central.
-- **Graduação de origem**, anterior ao MBA de 2002. O CV lista apenas Ciências Contábeis (Unisinos, 2021) e o MBA (UFRGS, 2002).
-- **Credenciamento de administrador de carteira** (ANBIMA/CVM, 2024). Se foi concluído, entra em Registros e certificações.
+Datas e cargos foram confirmados pelo LinkedIn (out/2026), e as vedações foram confirmadas por você. Formação e locais confirmados pelo LinkedIn (out/2026). Decisões tomadas:
+- **Mandatos na Eye e na Auttar:** o CV fica sem datas, por decisão sua. Tenha as atas de eleição em mãos para a análise do Banco Central.
+- **Credenciamento de administrador de carteira (ANBIMA/CVM, 2024):** não está no CV. Os e-mails mostram que o pedido foi feito, mas não mostram a conclusão. Se o credenciamento saiu, ele entra em Registros e certificações.
 
 ### O vínculo com o sogro, suplente de senador
 
