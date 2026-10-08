@@ -4,9 +4,9 @@
 
 Quem lê primeiro não é um RH. É um deputado ou senador, ou o assessor dele, que gasta uns 30 segundos com o papel antes de repassá-lo a quem tem poder de indicar: Governo do Estado, Casa Civil, Conselho de Administração. Nesses 30 segundos o leitor quer quatro respostas:
 
-1. **Quem é?** O nome, o título "Ex-Diretor Estatutário no Grupo Santander · Group CFO" e a faixa "Indicação para a Diretoria Executiva do Banrisul".
+1. **Quem é?** O nome e o título "Group CFO · Ex-Diretor Estatutário no Grupo Santander". O CV é discreto de propósito: não cita o Banrisul, nem indicação, nem legislação. O destino fica implícito no perfil, com mais de 20 anos no sistema financeiro, instituição regulada pelo Banco Central e adquirência.
 2. **Tem peso?** O primeiro card, em azul-escuro, mostra o mandato estatutário no Santander, que é a "caneta". Os quatro números grandes vêm logo abaixo.
-3. **É seguro nomear?** O quadro de **Elegibilidade (Lei 13.303/2016 e Res. CMN 4.970/2021)**. Um nome que não passa no filtro legal ou na aprovação do Banco Central queima o padrinho. Quem mostra de saída que passa vira um nome fácil de bancar.
+3. **É seguro nomear?** Isso fica fora do papel. Leve na conversa, de forma verbal: você atende à Lei das Estatais (mais de 20 anos no setor financeiro, cargos de direção desde 2022, formação compatível, ficha limpa) e passa no crivo do Banco Central.
 4. **É daqui?** O card "Raízes no RS". Para um banco estatal gaúcho, isso conta.
 
 A página 2 é para quem se aprofundar: o assessor técnico, o Conselho e, mais adiante, o Banco Central. O vocabulário de "caneta" (alçada, representação legal, assinatura de demonstrações financeiras, responsabilidade pessoal) aparece nos dois cargos de propósito.
