@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Tiago Meneghetti Brum — Currículo</title>
+<style>
+  @page { size: A4; margin: 0; }
+  :root{
+    --ink:#14202b; --ink2:#3d4b58; --muted:#6b7884; --rule:#d7dde3;
+    --navy:#0f3557; --navy2:#1d4e7a; --wash:#eef3f8; --gold:#a0782c;
+    --flag:#fff2a8;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;background:#fff;color:var(--ink);}
+  body{font-family:"Inter","Liberation Sans",sans-serif;font-size:9.15pt;line-height:1.42;-webkit-print-color-adjust:exact;print-color-adjust:exact;}
+  .page{width:210mm;height:297mm;padding:13mm 15mm 11mm;position:relative;overflow:hidden;page-break-after:always;}
+  .page:last-child{page-break-after:auto;}
+  .serif{font-family:"Bitstream Charter","Caladea",Georgia,serif;}
+
+  /* header */
+  .top{display:flex;justify-content:space-between;align-items:flex-end;border-bottom:2.2pt solid var(--navy);padding-bottom:9pt;}
+  .name{font-family:"Bitstream Charter","Caladea",Georgia,serif;font-size:25pt;font-weight:700;letter-spacing:.2pt;color:var(--navy);margin:0;line-height:1.05;}
+  .tag{margin:5pt 0 0;font-size:10pt;font-weight:600;color:var(--ink2);letter-spacing:.1pt;}
+  .tag span{color:var(--gold);padding:0 4pt;}
+  .contact{text-align:right;font-size:8.4pt;color:var(--ink2);line-height:1.55;}
+  .target{margin-top:8pt;white-space:nowrap;background:var(--navy);color:#fff;padding:5.5pt 10pt;font-size:8.3pt;letter-spacing:.6pt;text-transform:uppercase;font-weight:600;display:flex;justify-content:space-between;gap:12pt;}
+  .target b{color:#e9cf93;font-weight:700;}
+
+  h2{font-size:8.2pt;letter-spacing:1.4pt;text-transform:uppercase;color:var(--navy);margin:13pt 0 6pt;padding-bottom:3pt;border-bottom:.8pt solid var(--rule);font-weight:700;}
+  .summary{font-family:"Bitstream Charter","Caladea",Georgia,serif;font-size:10.6pt;line-height:1.5;color:var(--ink);margin:11pt 0 0;}
+  .summary b{color:var(--navy);}
+
+  /* credential cards */
+  .cards{display:grid;grid-template-columns:1fr 1fr;gap:6pt;margin-top:2pt;}
+  .card{background:var(--wash);border-left:2.6pt solid var(--navy2);padding:7pt 9pt;}
+  .card.hero{background:var(--navy);border-left-color:var(--gold);color:#fff;grid-column:1 / span 2;}
+  .card h3{margin:0 0 2.5pt;font-size:9.3pt;font-weight:700;color:var(--navy);}
+  .card.hero h3{color:#f0d79e;font-size:10pt;}
+  .card p{margin:0;font-size:8.6pt;color:var(--ink2);line-height:1.42;}
+  .card.hero p{color:#e3ebf3;font-size:8.9pt;}
+
+  /* numbers */
+  .nums{display:grid;grid-template-columns:repeat(4,1fr);border:.8pt solid var(--rule);margin-top:2pt;}
+  .num{padding:6pt 8pt;border-right:.8pt solid var(--rule);}
+  .num:last-child{border-right:0;}
+  .num b{display:block;font-family:"Bitstream Charter","Caladea",Georgia,serif;font-size:15pt;color:var(--navy);line-height:1.1;}
+  .num span{font-size:7.6pt;color:var(--muted);line-height:1.3;display:block;margin-top:2pt;}
+
+  /* eligibility */
+  table.elig{width:100%;border-collapse:collapse;font-size:8.3pt;}
+  table.elig td{padding:3.6pt 6pt;border-bottom:.6pt solid var(--rule);vertical-align:top;}
+  table.elig td:first-child{width:34%;font-weight:600;color:var(--ink);}
+  table.elig td:last-child{color:var(--ink2);}
+  .ok{color:#2f6b3f;font-weight:700;margin-right:4pt;}
+  .note{font-size:7.4pt;color:var(--muted);margin-top:4pt;}
+
+  /* experience */
+  .job{margin-bottom:9pt;}
+  .jh{display:flex;justify-content:space-between;align-items:baseline;gap:10pt;}
+  .co{font-size:10pt;font-weight:700;color:var(--navy);letter-spacing:.2pt;}
+  .co small{font-weight:500;color:var(--muted);font-size:8.3pt;letter-spacing:0;}
+  .dt{font-size:8.3pt;color:var(--ink2);font-weight:600;white-space:nowrap;}
+  .role{font-size:9.3pt;font-weight:700;color:var(--ink);margin:1.5pt 0 0;}
+  .role.stat{color:var(--gold);}
+  .ctx{font-size:8.3pt;color:var(--muted);font-style:italic;margin:1.5pt 0 3pt;}
+  ul{margin:2pt 0 0;padding-left:11pt;}
+  li{margin:0 0 2.4pt;color:var(--ink2);font-size:8.75pt;}
+  li b{color:var(--ink);}
+  .pen{background:var(--wash);border-left:2pt solid var(--gold);padding:5pt 8pt;margin:4pt 0 3pt;font-size:8.5pt;color:var(--ink);}
+  .pen b{color:var(--navy);}
+
+  .cols{display:grid;grid-template-columns:1.05fr 1fr;gap:16pt;}
+  .kv{font-size:8.6pt;margin:0 0 3.5pt;color:var(--ink2);}
+  .kv b{color:var(--ink);}
+
+  .flag{background:var(--flag);padding:0 2pt;border-radius:1.5pt;color:#5a4700;font-weight:600;}
+  .foot{position:absolute;left:15mm;right:15mm;bottom:7mm;display:flex;justify-content:space-between;font-size:7.2pt;color:var(--muted);border-top:.6pt solid var(--rule);padding-top:3pt;}
+</style>
+</head>
+<body>
+
+<!-- ============ PÁGINA 1 ============ -->
+<section class="page">
+  <div class="top">
+    <div>
+      <h1 class="name">Tiago Meneghetti Brum</h1>
+      <p class="tag">Executivo de Finanças<span>·</span>Ex-Diretor Estatutário no Grupo Santander<span>·</span>Group CFO</p>
+    </div>
+    <div class="contact">
+      Porto Alegre · RS<br>
+      +55 51 99919-7245<br>
+      tiagombrum@gmail.com<br>
+      linkedin.com/in/tiagombrum
+    </div>
+  </div>
+  <div class="target"><span>Indicação para a <b>Diretoria Executiva do Banrisul</b></span><span>Finanças · RI · Riscos · Pagamentos</span></div>
+
+  <p class="summary">
+    Executivo gaúcho com <b>25 anos de carreira</b> em finanças corporativas, mercado de capitais e governança, em companhias de grande porte: Gerdau, Dell, Dana, <b>Grupo Santander (Getnet)</b> e, hoje, à frente das finanças de um grupo de <b>R$ 3,2 bilhões</b> de receita. Foi <b>diretor estatutário em empresas do Grupo Santander</b>, com responsabilidade pessoal sobre demonstrações financeiras, atos societários e representação legal em ambiente regulado e auditado. É um perfil técnico, de execução e de <b>caneta</b>: decide, assina e responde pelo resultado.
+  </p>
+
+  <h2>Por que este nome</h2>
+  <div class="cards">
+    <div class="card hero">
+      <h3>Diretor estatutário no Grupo Santander: responsabilidade de quem assina</h3>
+      <p>Teve mandatos estatutários em duas empresas do Grupo Santander (Eye e Auttar, controladas da Getnet). Representou legalmente as companhias, aprovou e assinou demonstrações financeiras e conduziu assembleias e atos societários, sob a governança, a auditoria e o compliance de um banco global. Na Getnet, instituição de pagamento autorizada pelo Banco Central, liderou Tesouraria, Faturamento e Serviços Compartilhados.</p>
+    </div>
+    <div class="card">
+      <h3>Alçada máxima em um grupo de R$ 3,2 bi</h3>
+      <p>É Group CFO e Diretor Jurídico, com 86 profissionais em seis áreas. Responde aos sócios e à Presidência por estrutura de capital, bancos, investidores, fiscal e governança societária.</p>
+    </div>
+    <div class="card">
+      <h3>Mercado de capitais e sistema bancário</h3>
+      <p>Estruturou R$ 292 MM em 14 meses (debêntures, notas comerciais e FIDC) e negociou com 12 instituições financeiras, entre bancos públicos, privados e de investimento.</p>
+    </div>
+    <div class="card">
+      <h3>Disciplina de risco e de covenants</h3>
+      <p>Implantou a primeira apuração formal e auditada de covenants do grupo e os cumpriu com folga, sem waiver e sem aporte dos sócios. Mapeou e quantificou R$ 108,7 MM de risco fiscal.</p>
+    </div>
+    <div class="card">
+      <h3>Raízes no Rio Grande do Sul</h3>
+      <p>Vive e trabalha em Porto Alegre e se formou na UFRGS e na Unisinos. Conhece por dentro o empresariado gaúcho que o Banrisul financia, porque esteve do lado de quem toma crédito.</p>
+    </div>
+  </div>
+
+  <h2>Resultados recentes · Group CFO, jan/2025 – hoje</h2>
+  <div class="nums">
+    <div class="num"><b>5×</b><span>caixa: de R$ 42 MM para R$ 211 MM</span></div>
+    <div class="num"><b>−44%</b><span>dívida vencendo em 12 meses (−R$ 210 MM)</span></div>
+    <div class="num"><b>R$ 292 MM</b><span>captados no mercado de capitais e em FIDC</span></div>
+    <div class="num"><b>≈ R$ 40 MM</b><span>em economias recorrentes e ganhos capturados</span></div>
+  </div>
+
+  <h2>Elegibilidade · Lei 13.303/2016 (Lei das Estatais) e Res. CMN 4.970/2021</h2>
+  <table class="elig">
+    <tr><td>Experiência (art. 17, I)</td><td><span class="ok">✓</span>Mais de 4 anos em cargos de diretoria e chefia superior em empresa regulada pelo Banco Central (Getnet, Grupo Santander) e em grupo de grande porte (Dufrio). 25 anos na área financeira.</td></tr>
+    <tr><td>Formação compatível (art. 17, II)</td><td><span class="ok">✓</span>Ciências Contábeis (Unisinos) e MBA em Gestão Empresarial (UFRGS).</td></tr>
+    <tr><td>Registro e certificações</td><td><span class="ok">✓</span>CRC · CFO (BR)® IBEF-SP · CFP® · CGA e CGE ANBIMA</td></tr>
+    <tr><td>Reputação e vedações (art. 17, III e §2º)</td><td><span class="ok">✓</span>Ficha limpa. Sem filiação partidária, sem atuação em campanha eleitoral e sem cargo sindical. <span class="flag">[confirmar antes de enviar]</span></td></tr>
+  </table>
+
+  <h2>Competências-chave</h2>
+  <p class="kv">Tesouraria e ALM · funding e mercado de capitais · governança e companhia aberta · meios de pagamento e adquirência · risco de crédito e covenants · fiscal e Reforma Tributária · transformação digital em finanças</p>
+
+  <div class="foot"><span>Tiago Meneghetti Brum · Currículo executivo</span><span>1 / 2</span></div>
+</section>
+
+<!-- ============ PÁGINA 2 ============ -->
+<section class="page">
+  <h2 style="margin-top:0">Trajetória</h2>
+
+  <div class="job">
+    <div class="jh"><div class="co">REFRIGERAÇÃO DUFRIO <small>· Porto Alegre/RS</small></div><div class="dt">jan/2025 – atual</div></div>
+    <p class="role">Group CFO e Diretor Jurídico</p>
+    <p class="ctx">Grupo de distribuição, indústria e agronegócio em climatização e refrigeração, com receita bruta de R$ 3,16 bi e emissor de debêntures. Reporte aos sócios e à Presidência.</p>
+    <div class="pen"><b>Alçada:</b> estrutura de capital, contratação de dívida, garantias e covenants; relação com 12 bancos, investidores e agente fiduciário; Tesouraria, Fiscal, Crédito e Cobrança, Controladoria, Jurídico e Reforma Tributária, com 86 pessoas.</div>
+    <ul>
+      <li><b>Reconstrução do balanço:</b> caixa 5× maior (R$ 42 MM para R$ 211 MM) e dívida bruta reduzida em R$ 126 MM (−16%), sem aporte dos sócios e em um ano de margem pressionada.</li>
+      <li><b>Acesso ao mercado de capitais, construído do zero:</b> 3ª emissão de debêntures (R$ 120 MM), três emissões de notas comerciais e FIDC de R$ 50 MM, todos com custo abaixo da média da carteira. Total de R$ 292 MM.</li>
+      <li><b>Reperfilamento:</b> seis operações renegociadas com seis instituições. A concentração de vencimentos em um único ano caiu de 50% para 35%, o prazo foi alongado até 2031 e R$ 51,5 MM de caixa foram liberados em 2026.</li>
+      <li><b>Governança e risco:</b> implantou a primeira apuração formal e auditada de covenants e os cumpriu com folga, sem waiver. Toda a exposição cambial está protegida por swap.</li>
+      <li><b>Fiscal:</b> a tese de antecipação de dividendos, levada ao Conselho, economizou R$ 22,7 MM de IRRF. Montou uma carteira de R$ 27,9 MM em teses tributárias e estruturou a Reforma Tributária em 14 frentes.</li>
+      <li><b>Eficiência e modernização:</b> cortou 29% do orçamento da diretoria e capturou ≈ R$ 40 MM em economias e ganhos. Lidera a agenda de automação e IA aplicada a finanças.</li>
+    </ul>
+  </div>
+
+  <div class="job">
+    <div class="jh"><div class="co">GETNET · GRUPO SANTANDER</div><div class="dt"><span class="flag">[mês/ano]</span> – <span class="flag">[mês/ano]</span> · 4 anos</div></div>
+    <p class="role stat">Diretor Estatutário (CFO): Eye e Auttar, empresas controladas pela Getnet</p>
+    <p class="role">Head de Tesouraria, Faturamento e Serviços Compartilhados, Getnet <span class="flag">[título exato]</span></p>
+    <p class="ctx">A Getnet é uma das maiores adquirentes de cartões do Brasil, instituição de pagamento autorizada pelo Banco Central e integrante do Grupo Santander.</p>
+    <div class="pen"><b>Caneta:</b> mandato estatutário com representação legal das companhias, assinatura das demonstrações financeiras, condução de assembleias e atos societários, alçadas de aprovação e procurações, com responsabilidade pessoal perante acionistas, auditoria e órgãos de controle.</div>
+    <ul>
+      <li>Liderou Tesouraria, Faturamento e Centro de Serviços Compartilhados em uma das maiores operações de meios de pagamento do país, com gestão de liquidez e fluxo de recebíveis sob regulação do Banco Central. <span class="flag">[incluir volume: TPV, caixa gerido, equipe]</span></li>
+      <li>Fez a consolidação de múltiplas entidades, o ambiente de controles e o reporte regulatório no padrão de um banco global listado.</li>
+      <li>Conduziu a governança das controladas: aprovação de demonstrações financeiras, assembleias ordinárias e relação com auditoria independente.</li>
+    </ul>
+  </div>
+
+  <div class="job">
+    <div class="jh"><div class="co">CONSULTORIA DE INVESTIMENTOS <small>· escritório de agentes autônomos</small></div><div class="dt"><span class="flag">[ano]</span> – 2017</div></div>
+    <p class="role">Sócio <span class="flag">[nome do escritório]</span></p>
+    <ul><li>Fez a assessoria de investimentos para pessoas físicas e empresas, com relacionamento direto com o mercado de capitais e a distribuição de produtos financeiros.</li></ul>
+  </div>
+
+  <div class="job">
+    <div class="jh"><div class="co">GERDAU · DELL · DANA</div><div class="dt"><span class="flag">[períodos]</span></div></div>
+    <p class="role">Finanças, Controladoria e Operações <span class="flag">[cargos]</span></p>
+    <ul><li>Atuou em finanças e operações de multinacionais industriais: S&amp;OP, distribuição, logística e controladoria. É a base operacional que transforma análise de crédito e de projeto em leitura de negócio, e não em exercício de planilha.</li></ul>
+  </div>
+
+  <div class="cols">
+    <div>
+      <h2>Formação</h2>
+      <p class="kv"><b>Ciências Contábeis</b>, Unisinos, 2021</p>
+      <p class="kv"><b>MBA em Gestão Empresarial</b>, UFRGS, 2002</p>
+      <p class="kv"><span class="flag">[graduação de origem, se houver: curso e instituição]</span></p>
+      <h2>Idiomas</h2>
+      <p class="kv">Português (nativo), inglês e espanhol (profissional)</p>
+    </div>
+    <div>
+      <h2>Registros e certificações</h2>
+      <p class="kv"><b>CRC</b>, Conselho Regional de Contabilidade</p>
+      <p class="kv"><b>CFO (BR)®</b>, IBEF-SP</p>
+      <p class="kv"><b>CFP®</b>, Planejar</p>
+      <p class="kv"><b>CGA</b> e <b>CGE</b>, ANBIMA (gestão de recursos)</p>
+    </div>
+  </div>
+
+  <div class="foot"><span>Referências e documentação comprobatória disponíveis mediante solicitação</span><span>2 / 2</span></div>
+</section>
+
+</body>
+</html>
