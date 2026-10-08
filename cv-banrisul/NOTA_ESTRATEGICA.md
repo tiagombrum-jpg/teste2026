@@ -29,32 +29,30 @@ Em política, os documentos circulam muito e sem controle. Os números do CV já
 **d) Aprovação do Banco Central.**
 Diretor de banco passa por análise de "reputação ilibada" e capacitação técnica (Res. CMN 4.970/2021). Tenha à mão as certidões negativas (cível, criminal, protestos, Receita) e as atas de eleição como diretor na Eye e na Auttar. Elas comprovam o mandato estatutário, que é o seu principal argumento.
 
-## 3. O que você precisa confirmar (campos em amarelo no PDF)
+## 3. Pendências finais
 
-| Campo | O que preciso |
-|---|---|
-| Getnet | Mês/ano de entrada e saída; título exato do cargo na Getnet |
-| Eye e Auttar | Razão social exata e período de cada mandato estatutário |
-| Getnet: números | TPV, caixa ou liquidez sob gestão, tamanho da equipe, volume faturado |
-| Consultoria de investimentos | Nome do escritório, período, seu papel |
-| Gerdau, Dell, Dana | Cargo e período em cada uma |
-| Formação | Ciências Contábeis/Unisinos 2021 está certo? Qual a graduação de origem (anterior ao MBA de 2002)? |
-| Vedações | Ficha limpa, sem filiação partidária, sem cargo sindical, sem campanha nos últimos 36 meses |
-| Administrador CVM | Você concluiu o credenciamento de administrador de carteira (ANBIMA/CVM, 2024)? Se sim, entra no CV |
+Datas e cargos foram confirmados pelo LinkedIn (out/2026), e as vedações foram confirmadas por você. Ainda faltam:
+- **Períodos dos mandatos estatutários na Eye e na Auttar.** O CV não traz datas; tenha as atas de eleição em mãos para a análise do Banco Central.
+- **Graduação de origem**, anterior ao MBA de 2002. O CV lista apenas Ciências Contábeis (Unisinos, 2021) e o MBA (UFRGS, 2002).
+- **Credenciamento de administrador de carteira** (ANBIMA/CVM, 2024). Se foi concluído, entra em Registros e certificações.
 
-Com essas respostas eu fecho a versão final, sem marcações.
+### O vínculo com o sogro, suplente de senador
+
+- **Situação atual:** a Lei das Estatais (art. 17, §2º, I e §3º) estende a parentes por afinidade até o 3º grau a proibição que vale para titulares de mandato legislativo e para dirigentes de partido. Suplente fora do exercício do mandato não é titular, então hoje não há impedimento pela letra da lei.
+- **Quando vira impedimento:** se ele assumir a cadeira (licença ou saída do titular) ou se for dirigente estatutário de partido.
+- **Como conduzir:** declarar o parentesco no formulário de indicação, ter um parecer jurídico curto pronto e fazer a indicação chegar por mais de um parlamentar, de preferência de partidos diferentes. O CV não menciona o vínculo.
 
 ## 4. Qual diretoria mirar
 
 - **Financeira e RI / Tesouraria:** é o encaixe natural. Funding, mercado de capitais, covenants, relação com investidores de uma companhia listada.
 - **Riscos e Controles:** a experiência estatutária e regulada sustenta.
-- **Meios de pagamento (Vero / Banrisul Pagamentos):** é o **diferencial que poucos concorrentes têm**. Você vem de uma das maiores adquirentes do país. Vale pedir aos padrinhos que mencionem isso explicitamente.
+- **Meios de pagamento (Vero / Banrisul Pagamentos):** é o **diferencial que poucos concorrentes têm**. Você vem de uma das maiores adquirentes do país, e a Portocred mostra que você já operou tesouraria em uma instituição financeira regulada pelo Banco Central. Vale pedir aos padrinhos que mencionem isso explicitamente.
 
 O timing é agora, entre o 2º turno (25/10) e a transição. Os nomes da nova diretoria costumam ser fechados antes da posse do governador, em 1º/01.
 
 ## 5. Texto pronto para o parlamentar encaminhar (WhatsApp)
 
-> Indico para a Diretoria do Banrisul o **Tiago Meneghetti Brum**, executivo gaúcho de Porto Alegre com 25 anos em finanças. Foi **diretor estatutário em empresas do Grupo Santander** (Getnet) e hoje é **Group CFO de um grupo de R$ 3,2 bilhões**, onde captou R$ 292 milhões no mercado de capitais, multiplicou o caixa por cinco e reduziu a dívida sem aporte dos sócios. É um perfil técnico, que atende aos requisitos da Lei das Estatais e do Banco Central. Currículo em anexo.
+> Indico para a Diretoria do Banrisul o **Tiago Meneghetti Brum**, executivo gaúcho de Porto Alegre com 30 anos de carreira, mais de 20 deles no sistema financeiro. Foi **diretor estatutário em empresas do Grupo Santander** (Getnet), onde geriu R$ 2 bilhões em caixa, e hoje é **Group CFO de um grupo de R$ 3,2 bilhões**, onde captou R$ 292 milhões no mercado de capitais, multiplicou o caixa por cinco e reduziu a dívida sem aporte dos sócios. É um perfil técnico, que atende aos requisitos da Lei das Estatais e do Banco Central. Currículo em anexo.
 
 ## 6. E-mail curto de envio (você → parlamentar)
 
